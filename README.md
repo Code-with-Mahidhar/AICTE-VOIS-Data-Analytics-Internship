@@ -15,7 +15,7 @@ This repository contains the work and learnings from the **AICTE VOIS Data Analy
 - 🏛️ Organized by: AICTE & VOIS  
 - 🎓 Focus: Data Analytics + AI/ML  
 
-💡 The program provided hands-on experience in working with real-world datasets and analytics tools. :contentReference[oaicite:0]{index=0}  
+💡 The program provided hands-on experience in working with real-world datasets and analytics tools. 
 
 ---
 
@@ -85,7 +85,6 @@ AICTE-VOIS-Data-Analytics-Internship/
 🔹 Real-time data analytics systems
 🔹 Integration with web applications
 
-👨‍💻 Author
 
 ## 👨‍💻 Author
 
