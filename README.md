@@ -59,33 +59,34 @@ AICTE-VOIS-Data-Analytics-Internship/
 ├── projects/          # Internship tasks/projects
 ├── reports/           # Analysis reports
 └── README.md
-
-📊 Key Learnings
-🔍 Understanding real-world datasets
-📊 Data cleaning & preprocessing techniques
-📈 Creating meaningful visualizations
-🧠 Basic ML model concepts
-⚙️ Converting raw data into actionable insights
-🚀 Key Outcomes
-
-✔ Improved problem-solving skills
-✔ Built strong foundation in Data Analytics
-✔ Hands-on experience with Python libraries
-✔ Exposure to industry-level workflows
-
+```
+---
+## 📊 Key Learnings
+- 🔍 Understanding real-world datasets
+- 📊 Data cleaning & preprocessing techniques
+- 📈 Creating meaningful visualizations
+- 🧠 Basic ML model concepts
+- ⚙️ Converting raw data into actionable insights
+---
+## 🚀 Key Outcomes
+- ✔ Improved problem-solving skills
+- ✔ Built strong foundation in Data Analytics
+- ✔ Hands-on experience with Python libraries
+- ✔ Exposure to industry-level workflows
+---
 ## 💥 Highlights
-
 - 📊 Hands-on real-world data analysis  
 - 📈 Built meaningful visualizations  
 - 🧠 Applied ML concepts for insights  
 
-🔮 Future Scope
-🔹 Advanced Machine Learning models
-🔹 Dashboard tools (Power BI / Tableau)
-🔹 Real-time data analytics systems
-🔹 Integration with web applications
+---
+## 🔮 Future Scope
+- 🔹 Advanced Machine Learning models
+- 🔹 Dashboard tools (Power BI / Tableau)
+- 🔹 Real-time data analytics systems
+- 🔹Integration with web applications
 
-
+---
 ## 👨‍💻 Author
 
 **Mahidhar Reddy**  
